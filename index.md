@@ -1,4 +1,4 @@
-# Module06 Website---
+[Assignment 06](https://github.com/rchristopfel/IntroToProg-Python_Mod06)
 
 [Google Homepage](https://www.google.com "Google's Homepage")
 
